@@ -19,7 +19,7 @@ REST Architecture: Standard for web services communication.
 
 ## 🚀 How to Run
 Clone the repository:
-git clone https://github.com/VictorViapiana/task-api-flask.git
+git clone https://github.com/VictorViapiana/task-api-with-flask.git
 
 Navigate to the project folder:
 cd task-api-flask
